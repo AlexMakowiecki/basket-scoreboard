@@ -1,4 +1,4 @@
-# Berisso Tourism Showcase
+# Basket Scoreboard
 ## What is it? 
 It's a website with an interactive basketball scoreboard, where you can add points to each team and restart the game if needed. 
 It's also the third project, and the second solo project, part of the Scrimba Course, that I uploaded to Github. This project is part of module 3, where they teach you JavaScript.
